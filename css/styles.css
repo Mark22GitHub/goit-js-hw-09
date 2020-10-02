@@ -1,0 +1,51 @@
+/* ____________________________ */
+
+/* button {
+  width: 70px;
+  height: 70px;
+  border: 3px solid aqua;
+  background: gold;
+  cursor: pointer;
+  border-radius: 50%;
+} */
+
+/* ____________________________ */
+/* img {
+  width: 300px;
+  height: 300px;
+}
+
+.phone {
+  margin: 0 auto;
+  width: 300px;
+  height: 300px;
+  border: 3px solid green;
+}
+
+.nothing {
+  margin: 0 auto;
+  width: 300px;
+  height: 300px;
+  border: 3px solid red;
+} */
+
+/* ____________________________ */
+
+.div {
+  display: flex;
+}
+
+.currency {
+  color: sienna;
+}
+
+.base-currency {
+  color: sienna;
+}
+.buy {
+  color: olive;
+}
+
+.sale {
+  color: olive;
+}

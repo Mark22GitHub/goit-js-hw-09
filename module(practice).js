@@ -1,0 +1,1 @@
+export default () => "Wake up...";
